@@ -33,4 +33,8 @@ jupyter notebook employee_analysis.ipynb
 - Summary report
 - Five visualization charts
 - Cleaned dataset
--
+- 
+## Project Update
+- Employee data analysis completed.
+- Data visualization completed.
+- Final report prepared.
