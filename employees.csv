@@ -1,0 +1,11 @@
+employee_id,name,age,gender,department,city,salary,contract_type
+101,Arun,25,Male,IT,Chennai,30000,Permanent
+102,Priya,28,Female,HR,Coimbatore,25000,Permanent
+103,Kumar,30,Male,Finance,Madurai,40000,Contract
+104,Divya,26,Female,IT,Chennai,35000,Permanent
+105,Ravi,32,Male,Sales,Tenkasi,28000,Contract
+106,Meena,27,Female,HR,Coimbatore,27000,Permanent
+107,Ajay,29,Male,Finance,Madurai,45000,Permanent
+108,Kavitha,24,Female,Sales,Tenkasi,26000,Contract
+109,Manoj,31,Male,IT,Chennai,50000,Permanent
+110,Anitha,28,Female,Finance,Madurai,42000,Contract

@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Age,Salary,Joining_Date,City
+E001, anita ,it,25,35000,2022-01-10,chennai
+E002,RAHUL,HR,30,42000,2021-06-15,Coimbatore
+E003, Priya, finance ,28,39000,2023-03-20,Tenkasi
+E004,Kumar ,IT,35,50000,2020-11-05,Chennai
+E005,sneha,hr,,38000,2022-08-12,salem
+E006,Arun,Finance,29,45000,2021-09-01,
+E007,Meena , it ,32,41000,2020-02-18,coimbatore
+E008,Vijay,Sales,27,36000,2023-07-10,Tirunelveli
+E009,Divya,sales,26,39000,2022-12-01,Madurai
+E009,Divya,sales,26,39000,2022-12-01,Madurai

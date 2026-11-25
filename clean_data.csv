@@ -1,0 +1,10 @@
+Employee_ID,Name,Department,Age,Salary,Joining_Date,City,Age_outlier,Salary_outlier
+E001,Anita,It,25.0,35000,2022-01-10,Chennai,False,False
+E002,Rahul,Hr,30.0,42000,2021-06-15,Coimbatore,False,False
+E003,Priya,Finance,28.0,39000,2023-03-20,Tenkasi,False,False
+E004,Kumar,It,35.0,50000,2020-11-05,Chennai,True,True
+E005,Sneha,Hr,28.0,38000,2022-08-12,Salem,False,False
+E006,Arun,Finance,29.0,45000,2021-09-01,Chennai,False,False
+E007,Meena,It,32.0,41000,2020-02-18,Coimbatore,False,False
+E008,Vijay,Sales,27.0,36000,2023-07-10,Tirunelveli,False,False
+E009,Divya,Sales,26.0,39000,2022-12-01,Madurai,False,False
